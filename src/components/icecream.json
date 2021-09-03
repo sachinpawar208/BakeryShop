@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "image": "https://media.istockphoto.com/photos/ice-cream-picture-id170940477?k=20&m=170940477&s=612x612&w=0&h=gCNV8uXVOuJy9bRQlkUnodprArHv7G7C3TfMDXmX5pY=",
+    "title": "Raspberry Ice Cream",
+    "discount": "40%",
+    "mainprice": 100,
+    "price": 305
+  },
+  {
+    "id": 2,
+    "image": "https://media.istockphoto.com/photos/closeup-of-sweet-ice-cream-made-of-fruits-and-milk-picture-id966839556?k=20&m=966839556&s=612x612&w=0&h=TKte0uCwAmXkMckX5-YtKzttc02VpDrfZahECh53Tnk=",
+    "title": "Coffee Ice Cream",
+    "discount": "20%",
+    "mainprice": 150,
+    "price": 305
+  },
+  {
+    "id": 3,
+    "image": "https://media.istockphoto.com/photos/ice-cream-scoops-different-flavor-strawberry-chocolate-creamy-in-picture-id1162964737?k=20&m=1162964737&s=612x612&w=0&h=SwdaPnrrztExV-3nyCbTESd7HeSyZ6Dvmk8OGNzlYsc=",
+    "title": "Caramel Ice Cream",
+    "discount": "15%",
+    "mainprice": 200,
+    "price": 305
+  },
+  {
+    "id": 4,
+    "image": "https://media.istockphoto.com/photos/selection-of-colorful-ice-cream-scoops-in-paper-cones-picture-id938524592?k=20&m=938524592&s=612x612&w=0&h=mLc7sB9hzOWkNH5EZUb4gij3-qe4YxyeiTg3AOGQNGU=",
+    "title": "Sea Salt Ice Cream",
+    "discount": "50%",
+    "mainprice": 100,
+    "price": 305
+  },
+  {
+    "id": 5,
+    "image": "https://media.istockphoto.com/photos/various-ice-cream-balls-isolated-on-white-background-picture-id1173571504?k=20&m=1173571504&s=612x612&w=0&h=Utv5X-dYnVciRD1LHwO_60E6YNxXTMpm5SEwRN7e1Rc=",
+    "title": "Bubble Gum Ice Cream",
+    "discount": "35%",
+    "mainprice": 500,
+    "price": 305
+  },
+  {
+    "id": 6,
+    "image": "https://media.istockphoto.com/photos/dairy-free-coconut-milk-vanilla-ice-cream-in-a-sugar-cone-picture-id1160250698?k=20&m=1160250698&s=612x612&w=0&h=bfj5fQch4Xig0h-DK1f7x8glQltetI6fTjCGskh3LS8=",
+    "title": "Cookies and Cream",
+    "discount": "10%",
+    "mainprice": 150,
+    "price": 305
+  },
+  {
+    "id": 7,
+    "image": "https://media.istockphoto.com/photos/chocolate-ice-cream-in-a-waffle-basket-picture-id1094853108?k=20&m=1094853108&s=612x612&w=0&h=fSWYiCgsbCejB-zBZkQtEscNcfQ5IKV1ZExCzymNRjE=",
+    "title": "Mint Ice Cream with Chocolate Chip",
+    "discount": "20%",
+    "mainprice": 1500,
+    "price": 305
+  },
+  {
+    "id": 8,
+    "image": "https://media.istockphoto.com/photos/bowl-of-strawberry-ice-cream-picture-id696674082?k=20&m=696674082&s=612x612&w=0&h=redQZgngHT4OqGc9VzobF5INa6zMPkLp6QFjvDm99RQ=",
+    "title": "Strawberry Ice Cream",
+    "discount": "47%",
+    "mainprice": 500,
+    "price": 305
+  }
+]

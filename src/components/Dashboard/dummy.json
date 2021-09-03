@@ -1,0 +1,166 @@
+[
+  {
+    "id": "0001",
+    "name": "Cakes",
+    "data": [
+      {
+        "id": 1,
+        "image": "https://in.pinterest.com/pin/652107221054840759/",
+        "title": "Pound Cake",
+        "price": 305
+      },
+      {
+        "id": 2,
+        "image": "https://in.pinterest.com/pin/121034308724661125/",
+        "title": "Sponge Cake",
+        "price": 305
+      },
+      {
+        "id": 3,
+        "image": "https://in.pinterest.com/pin/1009439703948440871/",
+        "title": "Genoise Cake",
+        "price": 305
+      },
+      {
+        "id": 4,
+        "image": "https://in.pinterest.com/pin/736690451520074392/",
+        "title": "Biscuit Cake",
+        "price": 305
+      },
+      {
+        "id": 5,
+        "image": "https://in.pinterest.com/pin/592997475923103524/",
+        "title": "Chocolate Cake",
+        "price": 305
+      },
+      {
+        "id": 6,
+        "image": "https://in.pinterest.com/pin/1009439703948440871/",
+        "title": "Chiffon Cake",
+        "price": 305
+      },
+      {
+        "id": 7,
+        "image": "https://in.pinterest.com/pin/334884922291161318/",
+        "title": "Black forest cake",
+        "price": 305
+      },
+      {
+        "id": 8,
+        "image": "https://in.pinterest.com/pin/520236194446024954/",
+        "title": "Coffee Cake",
+        "price": 305
+      }
+    ]
+  },
+
+  {
+    "id": "0002",
+    "name": "Brownies",
+    "data": [
+      {
+        "id": 1,
+        "image": "https://pixabay.com/photos/brownie-cakes-greeting-card-4020349/",
+        "title": "Baked Brownie",
+        "price": 305
+      },
+      {
+        "id": 2,
+        "image": "https://pixabay.com/photos/brownie-dessert-cake-sweet-548591/",
+        "title": "Better-Than-Box-Mix Brownies",
+        "price": 305
+      },
+      {
+        "id": 3,
+        "image": "https://pixabay.com/photos/brownie-chocolate-cake-ice-cream-3042106/",
+        "title": "Buckeye Brownies",
+        "price": 305
+      },
+      {
+        "id": 4,
+        "image": "https://pixabay.com/photos/sweets-the-coffee-shop-the-desert-4367937/",
+        "title": "Chocolate Fudge Brownies",
+        "price": 305
+      },
+      {
+        "id": 5,
+        "image": "https://pixabay.com/photos/chocolate-cake-brownie-ice-cream-677762/",
+        "title": "Cream Cheese Brownies",
+        "price": 305
+      },
+      {
+        "id": 6,
+        "image": "https://pixabay.com/photos/cake-cakes-brownie-blikle-791137/",
+        "title": "Frozen Brownie Sundae",
+        "price": 305
+      },
+      {
+        "id": 7,
+        "image": "https://pixabay.com/photos/brownie-muffin-chocolate-dessert-3427505/",
+        "title": "Marshmallow Crunch Brownie Bars",
+        "price": 305
+      },
+      {
+        "id": 8,
+        "image": "https://pixabay.com/photos/brownie-chocolate-cake-ice-cream-2857462/",
+        "title": "Peanut Butter Cup Crunch Brownie",
+        "price": 305
+      }
+    ]
+  },
+
+  {
+    "id": "0003",
+    "name": "IceCream",
+    "data": [
+      {
+        "id": 1,
+        "image": "https://pixabay.com/photos/ice-cream-dessert-sweet-cold-food-1245727/",
+        "title": "Raspberry Ice Cream",
+        "price": 305
+      },
+      {
+        "id": 2,
+        "image": "https://pixabay.com/photos/ice-cream-milk-ice-cream-waffle-2367072/",
+        "title": "Coffee Ice Cream",
+        "price": 305
+      },
+      {
+        "id": 3,
+        "image": "https://pixabay.com/photos/bowl-ice-cream-ice-dessert-scoops-1932375/",
+        "title": "Caramel Ice Cream",
+        "price": 305
+      },
+      {
+        "id": 4,
+        "image": "https://pixabay.com/photos/ice-cream-chocolate-dessert-frozen-2987955/",
+        "title": "Sea Salt Ice Cream",
+        "price": 305
+      },
+      {
+        "id": 5,
+        "image": "https://pixabay.com/photos/cupcakes-dessert-food-muffins-1133146/",
+        "title": "Bubble Gum Ice Cream",
+        "price": 305
+      },
+      {
+        "id": 6,
+        "image": "https://pixabay.com/photos/ice-cream-cones-scooper-5928048/",
+        "title": "Cookies and Cream",
+        "price": 305
+      },
+      {
+        "id": 7,
+        "image": "https://pixabay.com/photos/ice-cream-gelato-dessert-sweet-3611698/",
+        "title": "Mint Ice Cream with Chocolate Chip",
+        "price": 305
+      },
+      {
+        "id": 8,
+        "image": "https://pixabay.com/photos/strawberry-ice-cream-strawberries-2239377/",
+        "title": "Strawberry Ice Cream",
+        "price": 305
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "image": "http://img.taste.com.au/mGtmQinI/taste/2016/11/top-50-cakes-image-1-66314-1.jpg",
+    "title": "Pound Cake",
+    "discount": "10%",
+    "mainprice": 1209,
+    "price": 676
+  },
+  {
+    "id": 2,
+    "image": "http://img.taste.com.au/1BL1L55J/taste/2016/11/top-50-cakes-image-29-66355-1.jpg",
+    "discount": "25%",
+    "title": "Sponge Cake",
+    "mainprice": 1409,
+    "price": 500
+  },
+  {
+    "id": 3,
+    "image": "http://img.taste.com.au/Dg8mhKFk/taste/2016/11/top-50-cakes-image-4-66318-1.jpg",
+    "discount": "24%",
+    "title": "Genoise Cake",
+    "mainprice": 1200,
+    "price": 300
+  },
+  {
+    "id": 4,
+    "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/victoria_sponge.jpg",
+    "discount": "44%",
+    "title": "Biscuit Cake",
+    "mainprice": 1300,
+    "price": 110
+  },
+  {
+    "id": 5,
+    "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/lemoncheese_cake.jpg",
+    "discount": "20%",
+    "title": "Chocolate Cake",
+    "mainprice": 1000,
+    "price": 920
+  },
+  {
+    "id": 6,
+    "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/birthday_cake.JPG",
+    "title": "Chiffon Cake",
+    "discount": "30%",
+    "mainprice": 900,
+    "price": 585
+  },
+  {
+    "id": 7,
+    "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/avocado_cake.jpg",
+    "title": "Black forest cake",
+    "discount": "40%",
+    "mainprice": 1500,
+    "price": 710
+  },
+  {
+    "id": 8,
+    "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/strawberry_cake.jpg",
+    "title": "Coffee Cake",
+    "discount": "70%",
+    "mainprice": 2099,
+    "price": 450
+  }
+]

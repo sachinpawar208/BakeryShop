@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "https://media.istockphoto.com/photos/homemade-chocolate-brownies-shot-on-rustic-wooden-table-picture-id1130910377?k=20&m=1130910377&s=612x612&w=0&h=HTTE7-1pjLJI5urYBVReAV0HhDTvAQz2Ot_acfSCtVA=",
+    "title": "Baked Brownie",
+    "price": 305,
+    "discount": "40%",
+    "mainprice": 100
+  },
+  {
+    "id": 2,
+    "image": "https://media.istockphoto.com/photos/chocolate-fudgy-brownie-with-vanilla-ice-cream-on-top-picture-id628596566?k=20&m=628596566&s=612x612&w=0&h=R7Yi773FRZVqPVbwWETEJNWDubUbXtn8_fy_YJrJpNs=",
+    "title": "Better-Than-Box-Mix Brownies",
+    "price": 305,
+    "discount": "20%",
+    "mainprice": 150
+  },
+  {
+    "id": 3,
+    "image": "https://media.istockphoto.com/photos/brownie-sundae-with-vanilla-ice-cream-nuts-and-chocolate-sauce-picture-id516764320?k=20&m=516764320&s=612x612&w=0&h=UbmyBKN7FxQG4QbZFUrY_I1U4bHnG_JOIR17cNDbGpo=",
+    "title": "Buckeye Brownies",
+    "discount": "15%",
+    "mainprice": 200,
+    "price": 305
+  },
+  {
+    "id": 4,
+    "image": "https://media.istockphoto.com/photos/chocolate-brownie-cake-dessert-with-nuts-on-dark-background-directly-picture-id654547300?k=20&m=654547300&s=612x612&w=0&h=wTENrbjpB7KPmwIIbOfqz-KxSS5H1HPCcz52INfEVqE=",
+    "title": "Chocolate Fudge Brownies",
+    "discount": "50%",
+    "mainprice": 100,
+    "price": 305
+  },
+  {
+    "id": 5,
+    "image": "https://media.istockphoto.com/photos/stack-of-three-brownies-on-white-plate-picture-id183359961?k=20&m=183359961&s=612x612&w=0&h=PGdyTO2mppUpE4YCm1eVmAdsCD6NYcd0lY9126HxLSE=",
+    "title": "Cream Cheese Brownies",
+    "discount": "35%",
+    "mainprice": 500,
+    "price": 305
+  },
+  {
+    "id": 6,
+    "image": "https://media.istockphoto.com/photos/closeup-of-chocolate-pieces-picture-id1210176396?k=20&m=1210176396&s=612x612&w=0&h=luXL1uDqkuobflth-U5KmpzIMLQfnTYrADsn7OTOubs=",
+    "title": "Frozen Brownie Sundae",
+    "price": 305,
+    "discount": "10%",
+    "mainprice": 150
+  },
+  {
+    "id": 7,
+    "image": "https://media.istockphoto.com/photos/dessert-chocolate-cake-picture-id155598375?k=20&m=155598375&s=612x612&w=0&h=wyjDWsZ3Q6PAmyURtSiSaaEC_xjSks2VQp-H2fAanw8=",
+    "discount": "20%",
+    "mainprice": 1500,
+    "price": 305
+  },
+  {
+    "id": 8,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAcbc5NB6Y28AKM9FDa_fjkIocch4OV-DIcA&usqp=CAU",
+    "title": "Peanut Butter Cup Crunch Brownie",
+    "discount": "47%",
+    "mainprice": 500,
+    "price": 305
+  }
+]
